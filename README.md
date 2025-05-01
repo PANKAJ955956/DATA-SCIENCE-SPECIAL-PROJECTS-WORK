@@ -30,5 +30,5 @@ This repository contains a curated set of projects focused on real-world applica
 
 ---
 
-## 📂 Folder Structure
+
 
